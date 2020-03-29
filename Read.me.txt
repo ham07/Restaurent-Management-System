@@ -1,0 +1,6 @@
+-Restaurent Management System
+-Developed a complete Restaurant Control System / 
+-User Can add product add users maintain food inventory use for sales with crystal reports
+-Add table and chair record
+ (C#,SQL Server)
+
